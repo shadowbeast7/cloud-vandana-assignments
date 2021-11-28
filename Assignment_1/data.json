@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "Ajay",
+        "last_name": "Vyanjane",
+        "city": "Latur",
+        "country": "India"
+    },
+    {
+        "first_name": "Sushil",
+        "last_name": "Bhardwaj",
+        "city": "Mumbai",
+        "country": "India"
+    },
+    {
+        "first_name": "Ruman",
+        "last_name": "Shaikh",
+        "city": "Ahmedpur",
+        "country": "India"
+    },
+    {
+        "first_name": "Sumit",
+        "last_name": "Shinde",
+        "city": "Latur",
+        "country": "India"
+    },
+    {
+        "first_name": "Abhishek",
+        "last_name": "Mishra",
+        "city": "Mumbai",
+        "country": "India"
+    }
+]
